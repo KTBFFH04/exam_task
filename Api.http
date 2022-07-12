@@ -1,0 +1,5 @@
+POST http://localhost:8000/bond/id/order
+Content-Type: application/x-www-form-urlencoded
+
+id=100
+
